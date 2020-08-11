@@ -5,7 +5,7 @@
 I'm Yago Pereira.
 I'm a tech enthusiast and Software Engineer 👨🏻‍💻
 
-- Current working at **Luma Health** 👨🏻‍⚕️
+- Currently working at **Luma Health** 👨🏻‍⚕️
 
 ## 📚💻 Techs i'm interested:
 <p>
