@@ -19,4 +19,4 @@ I'm a tech enthusiast and Software Engineer 👨🏻‍💻
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ypazevedo&&show_icons=true&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs,issues,contribs" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ypazevedo&&show_icons=true&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs" /></p>
