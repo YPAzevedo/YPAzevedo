@@ -18,5 +18,6 @@ I'm a tech enthusiast and Software Engineer 👨🏻‍💻
 <img height="25" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/216/thumb/apollo-seeklogo.com_%281%29.png"></img>
 </p>
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=ypazevedo&&show_icons=true&title_color=191919&icon_color=191919&text_color=ffffffbg_color=ffffff&hide=prs" /></p>
+![Yago's github stats](https://github-readme-stats.vercel.app/api?username=YPAzevedo&hide_title=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YPAzevedo&layout=compact&hide_title=true&theme=dark)
